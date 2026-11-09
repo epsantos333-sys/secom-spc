@@ -1,0 +1,5 @@
+data/
+guide/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
